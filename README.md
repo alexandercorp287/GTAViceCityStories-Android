@@ -16,7 +16,22 @@
   👉 [Актуальные релизы на GitHub (alexandercorp287)](https://github.com/alexandercorp287/GTAViceCityStories-Android/releases)
 
 ---
+## 🖼️ Скриншоты версии 1.3.0
 
+<p align="center">
+  <img src="Screen_1.jpg" width="48%" alt="Скриншот 1" />
+  <img src="Screen_2.jpg" width="48%" alt="Скриншот 2" />
+</p>
+<p align="center">
+  <img src="Screen_3.jpg" width="48%" alt="Скриншот 3" />
+  <img src="Screen_4.jpg" width="48%" alt="Скриншот 4" />
+</p>
+<p align="center">
+  <img src="Screen_5.jpg" width="48%" alt="Скриншот 5" />
+  <img src="Screen_6.jpg" width="48%" alt="Скриншот 6" />
+</p>
+
+---
 ## 📥 Установка игровых файлов
 
 Поскольку игра является рекомпиляцией оригинального бинарного кода PSP, файлы коммерческой игры не входят в состав репозитория. Вам потребуется собственный легально полученный образ игры.
